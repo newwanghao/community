@@ -1,0 +1,7 @@
+name: spider2
+rename_from: 
+description: spider man 
+branches:
+- name: master
+  type: protected
+type: public
